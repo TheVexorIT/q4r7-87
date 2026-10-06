@@ -23,8 +23,8 @@ VERSION = "V2.3"
 # ═══════════════════════════════════════════════════════════
 #  🛠️  CONFIG — اینجا رو پر کن
 # ═══════════════════════════════════════════════════════════
-TG_TOKEN   = "PASTE_YOUR_BOT_TOKEN_HERE"
-TG_CHAT    = "PASTE_YOUR_CHAT_ID_HERE"
+TG_TOKEN   = "8890435566:AAGqFX0U8Fp7PKoymaqNAMNE4h17BXmHwGI"
+TG_CHAT    = "6306660115"
 
 OUTPUT_FILE   = "good.txt"
 TIMEOUT       = 8
